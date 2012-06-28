@@ -6,7 +6,7 @@ Description: Change the attachment size in the attachment page.
 Version: 0.1
 Author: Rafael Poveda (RaveN)
 Author URI: http://mecus.es/author/raven/
-Contributors: bi0xid, mecus
+Contributors: bi0xid, _DorsVenabili, mecus
 */
 
 /*
